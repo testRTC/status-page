@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/api.testrtc.com",
     "slug": "api",
     "status": "down",
-    "uptime": "4.88%",
-    "uptimeDay": "4.88%",
-    "uptimeWeek": "4.88%",
-    "uptimeMonth": "4.88%",
-    "uptimeYear": "4.88%",
+    "uptime": "3.65%",
+    "uptimeDay": "3.65%",
+    "uptimeWeek": "3.65%",
+    "uptimeMonth": "3.65%",
+    "uptimeYear": "3.65%",
     "time": 352,
     "timeDay": 352,
     "timeWeek": 352,
     "timeMonth": 352,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2021-01-01": 0
+      "2021-01-01": 1
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/watchrtc.testrtc.com",
     "slug": "watch-rtc",
     "status": "down",
-    "uptime": "0.66%",
-    "uptimeDay": "0.66%",
-    "uptimeWeek": "0.66%",
-    "uptimeMonth": "0.66%",
-    "uptimeYear": "0.66%",
+    "uptime": "1.17%",
+    "uptimeDay": "1.17%",
+    "uptimeWeek": "1.17%",
+    "uptimeMonth": "1.17%",
+    "uptimeYear": "1.17%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-01": 0
+      "2021-01-01": 1
     }
   },
   {
