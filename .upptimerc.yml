@@ -4,17 +4,42 @@ repo: status-page # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
-
+  -	name: Frontend
+    url: https://app.testrtc.com/
+  -	name: Backend
+    url: https://app1.testrtc.com/api/status-page/system_name
+  -	name: API
+    url: https://api.testrtc.com/v1/statuspage
+  -	name: watchRTC
+    url: https://watchrtc.testrtc.com/
+  -	name: qualityRTC
+    url: https://ping-test.testrtc.com/
+  -	name: probeRTC
+    url: https://probertc.testrtc.com/
+  -	name: Home Page
+    url: https://testrtc.com/
+  -	name: qualityRTC Speed Test sa-east-1
+    url: https://sa-east-1.nettest.testrtc.com/country
+  -	name: qualityRTC Speed Test eu-central-1
+    url: https://eu-central-1.nettest.testrtc.com/country
+  -	name: qualityRTC Speed Test eu-west-1
+    url: https://eu-west-1.nettest.testrtc.com/country
+  -	name: qualityRTC Speed Test eu-west-3
+    url: https://eu-west-3.nettest.testrtc.com/country
+  -	name: qualityRTC Speed Test us-east-1
+    url: https://us-east-1.nettest.testrtc.com/country
+  -	name: qualityRTC Speed Test us-west-2
+    url: https://us-west-2.nettest.testrtc.com/country
+  -	name: qualityRTC Speed Test sa-east-1
+    url: https://sa-east-1.nettest.testrtc.com/country
+  -	name: qualityRTC Speed Test ap-southeast-1
+    url: https://ap-southeast-1.nettest.testrtc.com/country
+  -	name: qualityRTC Speed Test ap-northeast-1
+    url: https://ap-northeast-1.nettest.testrtc.com/country
+  -	name: qualityRTC Speed Test ap-southeast-2
+    url: https://ap-southeast-2.nettest.testrtc.com/country
+  -	name: qualityRTC Speed Test af-south-1
+    url: https://af-south-1.nettest.testrtc.com/country
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.testrtc.com
