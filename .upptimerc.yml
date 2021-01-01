@@ -40,13 +40,14 @@ sites:
     url: https://ap-southeast-2.nettest.testrtc.com/country
   -	name: qualityRTC Speed Test af-south-1
     url: https://af-south-1.nettest.testrtc.com/country
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.testrtc.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/testRTC/status-page/master/static/img/testlogo.jpg
-  name:
+  name: Status
   introTitle: "testRTC - TEST & MONITOR YOUR WEBRTC-BASED APPLICATION AT SCALE"
   introMessage: testRTC service status page
   navbar:
@@ -56,6 +57,9 @@ status-website:
       href: https://testrtc.com/
     - title: Service
       href: https://app.testrtc.com/
+
+i18n:
+  footer: testRTC - Copyright 2020 testRTC | All rights reserved
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
