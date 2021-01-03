@@ -11,7 +11,7 @@ sites:
   -	name: API
     url: https://api.testrtc.com/v1/statuspage
   -	name: watchRTC
-    url: https://watchrtc.testrtc.com/
+    url: https://watchrtc-staging2.testrtc.com/healthcheck
   -	name: qualityRTC
     url: https://ping-test.testrtc.com/
   -	name: probeRTC
@@ -59,7 +59,7 @@ status-website:
       href: https://app.testrtc.com/
 
 i18n:
-  footer: testRTC - Copyright 2020 testRTC | All rights reserved
+  footer: Copyright 2020 testRTC | All rights reserved
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
