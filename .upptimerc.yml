@@ -8,10 +8,13 @@ sites:
     url: https://app.testrtc.com/
   -	name: Backend
     url: https://app1.testrtc.com/api/status-page/system_name
-  -	name: API
-    url: https://api.testrtc.com/v1/statuspage
-  -	name: watchRTC
+  -	name: API (Staging)
+    url: https://api.testrtc.com/v1st/statuspage
+  -	name: watchRTC (Staging)
     url: https://watchrtc-staging2.testrtc.com/healthcheck
+    headers:
+      - "apikey: $API_KEY"
+      - "Content-Type: application/json"    
   -	name: qualityRTC
     url: https://ping-test.testrtc.com/
   -	name: probeRTC
