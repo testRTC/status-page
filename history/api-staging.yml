@@ -1,7 +1,7 @@
 url: https://api.testrtc.com/v1st/statuspage  
-status: up
-code: 200
-responseTime: 242
-lastUpdated: 2021-01-04T22:38:11.060Z
+status: down
+code: 404
+responseTime: 294
+lastUpdated: 2021-01-04T23:09:25.936Z
 startTime: Sun Jan 03 2021 14:10:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
