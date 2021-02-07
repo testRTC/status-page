@@ -40,18 +40,19 @@
     "url": "https://api.testrtc.com/v1st/statuspage",
     "icon": "https://favicons.githubusercontent.com/api.testrtc.com",
     "slug": "api-staging",
-    "status": "up",
-    "uptime": "98.13%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.15%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.13%",
+    "uptimeYear": "98.15%",
     "time": 271,
     "timeDay": 399,
     "timeWeek": 253,
     "timeMonth": 255,
     "timeYear": 271,
     "dailyMinutesDown": {
+      "2021-02-07": 0,
       "2021-01-05": 650,
       "2021-01-04": 279
     }
@@ -61,9 +62,9 @@
     "url": "https://watchrtc-staging2.testrtc.com/healthcheck",
     "icon": "https://favicons.githubusercontent.com/watchrtc-staging2.testrtc.com",
     "slug": "watch-rtc-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +73,9 @@
     "timeWeek": 173,
     "timeMonth": 151,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-07": 0
+    }
   },
   {
     "name": "qualityRTC",
