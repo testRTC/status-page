@@ -267,19 +267,19 @@
     "url": "https://ap-southeast-1.nettest.testrtc.com/country",
     "icon": "https://favicons.githubusercontent.com/ap-southeast-1.nettest.testrtc.com",
     "slug": "quality-rtc-speed-test-ap-southeast-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 737,
-    "timeDay": 808,
-    "timeWeek": 762,
-    "timeMonth": 749,
-    "timeYear": 737,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 849,
+    "timeDay": 4163,
+    "timeWeek": 1607,
+    "timeMonth": 960,
+    "timeYear": 849,
     "dailyMinutesDown": {
-      "2021-02-23": 0
+      "2021-02-23": 17
     }
   },
   {
