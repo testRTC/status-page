@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/api.testrtc.com",
     "slug": "api-staging",
     "status": "up",
-    "uptime": "96.15%",
+    "uptime": "96.17%",
     "uptimeDay": "84.71%",
     "uptimeWeek": "97.61%",
     "uptimeMonth": "95.49%",
-    "uptimeYear": "96.15%",
+    "uptimeYear": "96.17%",
     "time": 277,
     "timeDay": 214,
     "timeWeek": 307,
@@ -269,9 +269,9 @@
     "url": "https://ap-southeast-1.nettest.testrtc.com/country",
     "icon": "https://favicons.githubusercontent.com/ap-southeast-1.nettest.testrtc.com",
     "slug": "quality-rtc-speed-test-ap-southeast-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -281,6 +281,7 @@
     "timeMonth": 936,
     "timeYear": 841,
     "dailyMinutesDown": {
+      "2021-02-25": 0,
       "2021-02-23": 17
     }
   },
