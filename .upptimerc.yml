@@ -21,8 +21,8 @@ sites:
     url: https://probertc.testrtc.com/
   -	name: Home Page
     url: https://testrtc.com/
-  -	name: qualityRTC Speed Test sa-east-1
-    url: https://sa-east-1.nettest.testrtc.com/country
+  -	name: qualityRTC Speed Test us-east-2
+    url: https://us-east-2.nettest.testrtc.com/country
   -	name: qualityRTC Speed Test eu-central-1
     url: https://eu-central-1.nettest.testrtc.com/country
   -	name: qualityRTC Speed Test eu-west-1

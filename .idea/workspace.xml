@@ -21,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -40,7 +40,9 @@
       <option name="presentableId" value="Default" />
       <updated>1609466869989</updated>
       <workItem from="1609466871165" duration="6598000" />
-      <workItem from="1609674990728" duration="15000" />
+      <workItem from="1609674990728" duration="1262000" />
+      <workItem from="1609699427273" duration="1189000" />
+      <workItem from="1614425085884" duration="885000" />
     </task>
     <task id="LOCAL-00001" summary="initial setup">
       <created>1609468082121</created>
@@ -70,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609501376291</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add watchRTC">
+      <created>1609675016152</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609675016152</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,13 +89,14 @@
     <MESSAGE value="initial setup" />
     <MESSAGE value="add urls" />
     <MESSAGE value="some cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="some cleanup" />
+    <MESSAGE value="add watchRTC" />
+    <option name="LAST_COMMIT_MESSAGE" value="add watchRTC" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1609501375699">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1609675015597">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609501375699" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1609675015597" />
     <state x="121" y="51" key="MergeDialog" timestamp="1609501149395">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -95,13 +105,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="280" y="102" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1609501149401" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1609501561389">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1609675058008">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1609501561389" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1609675058008" />
     <state x="347" y="73" width="587" height="534" key="find.popup" timestamp="1609501157440">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="347" y="73" width="587" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1609501157440" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1609704478433">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1609704478433" />
   </component>
 </project>
