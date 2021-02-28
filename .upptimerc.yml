@@ -25,6 +25,8 @@ sites:
     url: https://us-east-2.nettest.testrtc.com/country
   -	name: qualityRTC Speed Test eu-central-1
     url: https://eu-central-1.nettest.testrtc.com/country
+  -	name: qualityRTC Speed Test eu-north-1
+    url: https://eu-north-1.nettest.testrtc.com/country
   -	name: qualityRTC Speed Test eu-west-1
     url: https://eu-west-1.nettest.testrtc.com/country
   -	name: qualityRTC Speed Test eu-west-3
