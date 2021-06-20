@@ -21,6 +21,8 @@ sites:
     url: https://probertc.testrtc.com/
   -	name: Home Page
     url: https://testrtc.com/
+  - name: DNS Leak
+    url: https://d178430f-11f6-45b9-be1e-6c9be44261ed.dnsleak.testrtc.com/dnsleak
   -	name: qualityRTC Speed Test us-east-2
     url: https://us-east-2.nettest.testrtc.com/country
   -	name: qualityRTC Speed Test eu-central-1
